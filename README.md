@@ -47,6 +47,9 @@
         <a href="https://youtu.be/Fdj6c3YBsxk?si=WCSt1mStYfwX-VQQ" >かねこちはる - 《Re:miniscence》</a>
     </li>
     <li>
+        <a href="https://youtu.be/OlLQw7Xg2Fk?si=LdCct4Tklb2DMYIM" >かねこちはる - poxei♦DOON</a>
+    </li>
+    <li>
         <a href="https://youtu.be/TfOx00AOfKo?si=dpqBm335q-DfT9FQ" >常闇トワ - ライメイ</a>
     </li>
     <li>
