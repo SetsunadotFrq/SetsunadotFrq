@@ -55,7 +55,6 @@ I had learned about IT for 2years at junior college.
     <img src="https://github.com/SetsunadotFrq/SetsunadotFrq/blob/066f2e0c9aeb3dc19c2b45573f4e433f0ab79963/img/k4sen_tw_icon.png" width="120">
 </a>
 
-<br>
 <details>
 <summary>好きなゲーム - Like Games</summary>
 <ul>
