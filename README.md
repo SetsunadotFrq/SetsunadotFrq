@@ -1,61 +1,22 @@
-# Hi there 👋
+# Hi there 👋 I'm Setsuna
+
+I had learned about IT for 2years at junior college.
 
 ## スキル - My skills
 
-### 開発言語 - Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,vscode,visualstudio,ubuntu" width="480">
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,html,css,ps&perline=3)](https://skillicons.dev)
+## やってみたいこと - Like to try
 
-### 開発環境 - Environments
-
-[![My Env](https://skillicons.dev/icons?i=vscode,visualstudio,ubuntu&perline=3)](https://skillicons.dev)
-
-### やってみたいこと - Like to try
-
-[![Try](https://skillicons.dev/icons?i=html,css,js,ts,docker,swift&perline=3)](https://skillicons.dev)
+<ul>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Swift</li>
+    <li>Webページ制作</li>
+    <li>その他やりたいと思ったこと</li>
+</ul>
 
 ## 好きなもの - Likes
-
-### 好きなゲーム - Like Games
-
-<ul>
-    <li>音ゲー(オンゲキ、Arcaea、チュウニズムなど)</li>
-    <li>学園アイドルマスター</li>
-    <li>アイドリープライド</li>
-    <li>崩壊：スターレイル</li>
-</ul>
-
-### 好きな曲 - Like Tracks
-
-<ul>
-    <li>
-        <a href="https://youtu.be/ovh--Q3y66Y?si=KUUcKrIoGZm8Uwj3" >Feryquitous - Ai Nov</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/eNnL750ViLY?si=fFJwBN7pYLkSTjfW" >Feryquitous - Arcahv</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/ruhWr1Mna_8?si=7z1XwXpEfBDEr_MZ" >Feryquitous - Quon -Extend-</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/8QfZ5oPfKeM?si=fE_YlBs9dncdIo21" >t+pazolite vs Feryquitous - Callima Karma</a>
-    </li>
-        <li>
-        <a href="https://youtu.be/l3jMCWZcFKU?si=h5fIAnfii-ZxFBAu" >Feryquitous vs Laur - Arghena</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/Fdj6c3YBsxk?si=WCSt1mStYfwX-VQQ" >かねこちはる - 《Re:miniscence》</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/OlLQw7Xg2Fk?si=LdCct4Tklb2DMYIM" >かねこちはる - poxei♦DOON</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/TfOx00AOfKo?si=dpqBm335q-DfT9FQ" >常闇トワ - ライメイ</a>
-    </li>
-    <li>
-        <a href="https://youtu.be/T6WutYaXYSQ?si=LlcidVhRbMBLTNi1" >Midnight Grand Orchestra - Moonlightspeed</a>
-    </li>
-</ul>
 
 ### 好きな配信者 - Like Streamers
 
@@ -93,6 +54,51 @@
 <a href="https://www.twitch.tv/k4sen">
     <img src="https://github.com/SetsunadotFrq/SetsunadotFrq/blob/066f2e0c9aeb3dc19c2b45573f4e433f0ab79963/img/k4sen_tw_icon.png" width="120">
 </a>
+
+<br>
+<details>
+<summary>好きなゲーム - Like Games</summary>
+<ul>
+    <li>音ゲー(オンゲキ、Arcaea、チュウニズムなど)</li>
+    <li>学園アイドルマスター</li>
+    <li>アイドリープライド</li>
+    <li>崩壊：スターレイル</li>
+</ul>
+</details>
+
+<details>
+<summary>好きな曲 - Like Tracks</summary>
+<ul>
+    <li>
+        <a href="https://youtu.be/ovh--Q3y66Y?si=KUUcKrIoGZm8Uwj3" >Feryquitous - Ai Nov</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/eNnL750ViLY?si=fFJwBN7pYLkSTjfW" >Feryquitous - Arcahv</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/ruhWr1Mna_8?si=7z1XwXpEfBDEr_MZ" >Feryquitous - Quon -Extend-</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/8QfZ5oPfKeM?si=fE_YlBs9dncdIo21" >t+pazolite vs Feryquitous - Callima Karma</a>
+    </li>
+        <li>
+        <a href="https://youtu.be/l3jMCWZcFKU?si=h5fIAnfii-ZxFBAu" >Feryquitous vs Laur - Arghena</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/Fdj6c3YBsxk?si=WCSt1mStYfwX-VQQ" >かねこちはる - 《Re:miniscence》</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/OlLQw7Xg2Fk?si=LdCct4Tklb2DMYIM" >かねこちはる - poxei♦DOON</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/TfOx00AOfKo?si=dpqBm335q-DfT9FQ" >常闇トワ - ライメイ</a>
+    </li>
+    <li>
+        <a href="https://youtu.be/T6WutYaXYSQ?si=LlcidVhRbMBLTNi1" >Midnight Grand Orchestra - Moonlightspeed</a>
+    </li>
+</ul>
+
+</details>
 
 <!--
 **SetsunadotFrq/SetsunadotFrq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
