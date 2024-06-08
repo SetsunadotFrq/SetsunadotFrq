@@ -54,7 +54,7 @@
     </li>
 </ul>
 
-### 好きな配信者 - Like Streamer
+### 好きな配信者 - Like Streamers
 
 <!--Suisei-->
 <a href="https://www.youtube.com/@HoshimachiSuisei">
