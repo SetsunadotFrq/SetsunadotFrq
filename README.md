@@ -10,7 +10,6 @@ I had learned about IT for 2years at junior college.
 
 <ul>
     <li>JavaScript</li>
-    <li>TypeScript</li>
     <li>Swift</li>
     <li>Webページ制作</li>
     <li>その他やりたいと思ったこと</li>
@@ -55,6 +54,8 @@ I had learned about IT for 2years at junior college.
     <img src="https://github.com/SetsunadotFrq/SetsunadotFrq/blob/066f2e0c9aeb3dc19c2b45573f4e433f0ab79963/img/k4sen_tw_icon.png" width="120">
 </a>
 
+---
+
 <details>
 <summary>好きなゲーム - Like Games</summary>
 <ul>
@@ -96,7 +97,6 @@ I had learned about IT for 2years at junior college.
         <a href="https://youtu.be/T6WutYaXYSQ?si=LlcidVhRbMBLTNi1" >Midnight Grand Orchestra - Moonlightspeed</a>
     </li>
 </ul>
-
 </details>
 
 <!--
