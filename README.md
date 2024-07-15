@@ -4,7 +4,7 @@ I had learned about IT for 2years at junior college.
 
 ## スキル - My skills
 
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,html,css,vscode,visualstudio,ubuntu" width="480">
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,py,html,css,vscode,visualstudio,ubuntu" width="480">
 
 ## やってみたいこと - Like to try
 
