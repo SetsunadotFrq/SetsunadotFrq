@@ -60,7 +60,7 @@ I had learned about IT for 2years at junior college.
 <summary>好きなゲーム - Like Games</summary>
 <ul>
     <li>音ゲー(オンゲキ、Arcaea、チュウニズムなど)</li>
-    <li>学園アイドルマスター</li>
+    <li>ゼンレスゾーンゼロ</li>
     <li>アイドリープライド</li>
     <li>崩壊：スターレイル</li>
 </ul>
